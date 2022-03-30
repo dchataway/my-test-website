@@ -1,3 +1,10 @@
-<?php
+<!DOCTYPE html>
+<html>
+<body>
 
-echo "Hello World! Shannon is stinky!";
+<h1>Test Website</h1>
+
+<?php echo "Hello World! Shannon is sicky!"; ?>
+
+</body>
+</html> 
